@@ -1,2 +1,1 @@
-# Python-session
-Python sessions
+# Python Sessions
